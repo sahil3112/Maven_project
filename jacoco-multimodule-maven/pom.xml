@@ -14,7 +14,7 @@
         <module>module-c</module>
     </modules>
     <properties>
-        <jacoco.version>0.8.6</jacoco.version>
+        <jacoco.version>0.7.9</jacoco.version>
         <sonar.jacoco.reportPaths>${project.basedir}/../target/jacoco.exec</sonar.jacoco.reportPaths>
         <sonar.jacoco.itReportPath>${project.basedir}/../target/jacoco-it.exec</sonar.jacoco.itReportPath>
         <sonar.language>java</sonar.language>
